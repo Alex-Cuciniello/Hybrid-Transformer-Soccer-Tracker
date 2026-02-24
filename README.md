@@ -1,5 +1,3 @@
-# Hybrid-Transformer-Soccer-Tracker
-
 # ⚽ Soccer Multi-Object Tracking & Behavior Analysis
 
 This repository contains an advanced Computer Vision pipeline for detection, Multi-Object Tracking (MOT), and behavior analysis of soccer players in match broadcast videos (based on the SoccerNet dataset).
